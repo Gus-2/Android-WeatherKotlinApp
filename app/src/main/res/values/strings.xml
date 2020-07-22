@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WeatherKotlinApp</string>
+    <string name="createcity_title">\"New city name ? \"</string>
+    <string name="createcity_positibe">Create city</string>
+    <string name="createcity_cancel">Cancel</string>
+    <string name="createcity_hint">New York, London...</string>
+    <string name="menu_create_city">Create city</string>
+    <string name="delete_city_title">Do you really want to delete %1$s?</string>
+    <string name="deletecity_negativ">Cancel</string>
+    <string name="deletecity_positive">Delete city</string>
+    <string name="citymessage_error_couldnt_create_city">Could\'nt create city</string>
+    <string name="city_message_info_city_delete">%1$s has been deleted</string>
+    <string name="city_message_error_city_delete">Could not delete %1$s</string>
+
+    <string name="weather_temperature_value">%1$d °C</string>
+    <string name="weather_humidity_value">%1$d %%</string>
+    <string name="weather_pressure_value">%1$d hPa</string>
+</resources>
